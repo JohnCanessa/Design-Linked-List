@@ -10,7 +10,7 @@ LeetCode provides an example on how the methods will be called.
 If interested in my approach and comments please visit the associated
 post at the following URL:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/20/design-linked-list/
 
 Remember that one of the best ways to learn is to read and experiment.
 
